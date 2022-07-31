@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    android:orientation="vertical"
+    tools:context=".wifiManager">
+
+    <ListView
+        android:id="@+id/wifiList"
+        android:layout_width="match_parent"
+        android:layout_height="315dp"
+        android:layout_marginTop="220dp"
+        android:layout_weight="0.97"/>
+
+    
+    <Button
+        android:id="@+id/scanBTN"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="15dp"
+        android:background="@drawable/button_shape"
+        android:text="Perbaharui Wifi "
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/pilihBTN"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="15dp"
+        android:background="@drawable/button_shape"
+        android:text="Pilih Jaringan Wifi"
+        android:onClick="pilihBTN"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/kembali3"
+        android:onClick="kembali3"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="15dp"
+        android:background="@drawable/button_shape"
+        android:text="Kembali"
+        android:textColor="@color/black"/>
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76588012777",
+    "firebase_url": "https://realtime-sensor-ab125-default-rtdb.firebaseio.com",
+    "project_id": "realtime-sensor-ab125",
+    "storage_bucket": "realtime-sensor-ab125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76588012777:android:92f993401ca679ffcc4c78",
+        "android_client_info": {
+          "package_name": "com.example.sihias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76588012777-4jblaq379eu6eadscv69hnfd445hsc60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALAsqNCK-bSyaNNU54dn6HA9hI-Dl5OBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76588012777-4jblaq379eu6eadscv69hnfd445hsc60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

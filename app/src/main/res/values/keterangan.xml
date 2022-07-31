@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keterangan">1. Jika kelembaban tanah kurang dari 60, maka akan dilakukan penyiraman secara otomatis.</string>
+    <string name="keterangan2">2. Jika suhu lingkungan tanaman berada antara 21 sampai 29, maka suhu stabil.</string>
+    <string name="keterangan3">3. Jika tinggi air bernilai kurang dari 3 cm, maka tangki air perlu diisi kembali.</string>
+    <string name="tentang">SiHias merupakan sebuah aplikasi monitoring tanaman hias yang terhubung dengan Firebase dan ESP8266. Aplikasi SiHias dibuat sebagai salah satu syarat kelulusan DIII Teknik Komputer Politeknik Negeri Jember.</string>
+</resources>
